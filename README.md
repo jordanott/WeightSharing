@@ -1,5 +1,7 @@
 # Learning in the Machine: To Share or not to Share?
 
+This repository is associated with [our paper](https://arxiv.org/abs/1909.11483).
+
 ```
 @article{ott2019share,
   title={Learning in the Machine: To Share or not to Share?},

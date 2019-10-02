@@ -3,8 +3,8 @@
 This repository is associated with [our paper](https://arxiv.org/abs/1909.11483).
 
 ```
-@article{ott2019share,
-  title={Learning in the Machine: To Share or not to Share?},
+@article{ott2019learning,
+  title={Learning in the Machine: To Share or Not to Share?},
   author={Ott, Jordan and Linstead, Erik and LaHaye, Nicholas and Baldi, Pierre},
   journal={arXiv preprint arXiv:1909.11483},
   year={2019}
